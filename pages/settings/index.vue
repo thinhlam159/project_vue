@@ -1,6 +1,7 @@
 <template>
   <div class="general">
     <h3>Settings index</h3>
+    <h2>Test github on phpstorm</h2>
   </div>
 </template>
 
