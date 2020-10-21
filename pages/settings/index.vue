@@ -2,7 +2,6 @@
   <div class="general">
     <h3>Settings index</h3>
     <h2>Test github on phpstorm</h2>
-    <h2>Test github on phpstorm lai lan 2</h2>
   </div>
 </template>
 
